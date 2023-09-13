@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "D:\\mern stack project\\Doctor-Appointment-master\\api\\logs\\winston\\successes\\.61362dfba0fecf8ed719b2934590b12421ff0f0d-audit.json",
+    "files": [
+        {
+            "date": 1694580592825,
+            "name": "D:\\mern stack project\\Doctor-Appointment-master\\api\\logs\\winston\\successes\\phu-2023-13-09-07-success.log",
+            "hash": "5ed03f00e8fdcb76ea14eb58e9d2a017400745011ad6f9839349d6e6241ffcb1"
+        }
+    ],
+    "hashType": "sha256"
+}
